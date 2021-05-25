@@ -3,4 +3,5 @@ DateTime==4.3
 requests==2.25.1
 Command==0.1.0
 configparser==5.0.1
+livestreamer==1.12.2
 streamlink==2.1.1
